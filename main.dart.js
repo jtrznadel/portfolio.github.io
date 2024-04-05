@@ -83514,8 +83514,8 @@ k=A.nU(A.a([o,n,l,new A.AK(36,15,B.a7,B.a3,s),B.ez,A.avs(A.A1(s,s,B.bU,s,s,!0,s,
 return new A.cl(s,p*0.92,A.mN(A.a([new A.cl(r.a*0.4,s,k,s),new A.yn(new A.GF("assets/lotties/home_astronaut.json",s,s,s,s,!1),s,s,s,s,s,s,s,s,s,s,p*0.8,s,s,s,s,s,s,s,s)],m),B.az,B.aE,B.aF),q)}}
 A.a4p.prototype={
 $0(){var s=document.createElement("a")
-s.href="assets/pdf/JakubTrznadel_FlutterDeveloper_CV.pdf"
-s.download="Trznadel_Jakub_CV"
+s.href="assets/pdf/Jakub Trznadel - Mobile Developer - Resume.pdf"
+s.download="Jakub Trznadel - Mobile Developer - Resume.pdf"
 s.click()
 return null},
 $S:0}
